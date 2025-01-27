@@ -56,4 +56,4 @@ All fields will store the normalized version (`254XXXXXXXXX`) in the database.
 
 ## License
 
-[MIT License](LICENSE) or your preferred license text.
+[MIT License](LICENSE)
